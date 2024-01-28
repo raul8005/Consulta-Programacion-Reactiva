@@ -7,4 +7,5 @@ object App {
 
   def calcular() =
 
+    int val =26
 }
